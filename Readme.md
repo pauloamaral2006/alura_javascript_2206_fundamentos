@@ -6,7 +6,7 @@
 
 ## 📘Ementa
 
-### DevOps: trabalhando com repositórios no GitHub
+### JavaScript: tipos, variáveis e funções
 
 - Aprender uma linguagem de programação desde seus blocos básicos
 - Entender as particularidades do JavaScript e como trabalhamos com elas
