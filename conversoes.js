@@ -11,5 +11,10 @@ console.log(numero + numeroString);
 
 // conversão explícita
 // Number()
-//String()
+// String()
 console.log(numero + Number(numeroString));
+
+// tipagem dinâmica
+let minhaVar = 567;
+minhaVar = "texto";
+minhaVar = true;
